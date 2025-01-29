@@ -8,7 +8,7 @@ the client using a TCP connection.
         IP: a.b.c.d                                   IP: a.b.c.d 
        .---------------.       send message        .----------------.
        |               |   ----------1--------->   |                |
-	   |  Echo Client  |                           |  Echo Server   |
+       |  Echo Client  |                           |  Echo Server   |
        |               |   <---------2----------   |                |
        '---------------'     send reply message    '----------------'
 
